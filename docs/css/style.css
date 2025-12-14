@@ -340,11 +340,11 @@ h2.portfolio.menu-item:before {
 }
 
 h2.blog.menu-item:before {
-    content: '04';
+    content: '03';
 }
 
 h2.contact.menu-item:before {
-    content: '03';
+    content: '04';
 }
 
 h2.demystify.menu-item:before {
